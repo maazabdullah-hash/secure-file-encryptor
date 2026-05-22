@@ -79,6 +79,8 @@ secure-file-encryptor/
 - Encrypted files are only as strong as your password and the integrity of the file on disk.
 ## Screenshots
 
+## Screenshots
+
 ### Main Window
 ![Main GUI](screenshots/main.png)
 
