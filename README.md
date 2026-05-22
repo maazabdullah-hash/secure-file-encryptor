@@ -80,12 +80,12 @@ secure-file-encryptor/
 ## Screenshots
 
 ### Main Window
-![Main GUI](screenshots/main.png)
+![Main GUI](main.png)
 
 ### Encrypt Tab
-![Encrypt Screen](screenshots/encrypt.png)
+![Encrypt Screen](encrypt.png)
 
 ### Decrypt Tab
-![Decrypt Screen](screenshots/decrypt.png)
+![Decrypt Screen](decrypt.png)
 
 Use and modify for personal or educational purposes. Review cryptographic choices before production deployment.
