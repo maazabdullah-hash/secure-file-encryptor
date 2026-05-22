@@ -77,7 +77,6 @@ secure-file-encryptor/
 - Use a long, unique password; the tool does not store passwords.
 - Keep backups of originals before encrypting; overwriting is your choice at save time.
 - Encrypted files are only as strong as your password and the integrity of the file on disk.
-
 ## Screenshots
 
 ### Main Window
@@ -88,6 +87,5 @@ secure-file-encryptor/
 
 ### Decrypt Tab
 ![Decrypt Screen](screenshots/decrypt.png)
-## License
 
 Use and modify for personal or educational purposes. Review cryptographic choices before production deployment.
