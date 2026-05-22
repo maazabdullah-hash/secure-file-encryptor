@@ -79,8 +79,6 @@ secure-file-encryptor/
 - Encrypted files are only as strong as your password and the integrity of the file on disk.
 ## Screenshots
 
-## Screenshots
-
 ### Main Window
 ![Main GUI](screenshots/main.png)
 
@@ -89,5 +87,6 @@ secure-file-encryptor/
 
 ### Decrypt Tab
 ![Decrypt Screen](screenshots/decrypt.png)
+
 
 Use and modify for personal or educational purposes. Review cryptographic choices before production deployment.
