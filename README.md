@@ -80,20 +80,14 @@ secure-file-encryptor/
 
 ## Screenshots
 
-Add PNG captures to the paths below after running the app.
+### Main Window
+![Main GUI](screenshots/main.png)
 
-### Application banner / title
+### Encrypt Tab
+![Encrypt Screen](screenshots/encrypt.png)
 
-![Banner](screenshots/01_banner.png)
-
-### Main window
-
-![Main GUI](screenshots/02_main_gui.png)
-
-### Encrypt / decrypt result
-
-![Output](screenshots/03_output.png)
-
+### Decrypt Tab
+![Decrypt Screen](screenshots/decrypt.png)
 ## License
 
 Use and modify for personal or educational purposes. Review cryptographic choices before production deployment.
