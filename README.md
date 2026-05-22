@@ -88,5 +88,4 @@ secure-file-encryptor/
 ### Decrypt Tab
 ![Decrypt Screen](screenshots/decrypt.png)
 
-
 Use and modify for personal or educational purposes. Review cryptographic choices before production deployment.
